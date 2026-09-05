@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect x="0" y="0" width="800" height="600" fill="#202020" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,0,0)"/>
+  <rect x="20" y="20" width="120" height="80" rx="10" ry="10" fill="#FF0000" stroke="#FFFFFF" stroke-width="3" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <circle cx="220" cy="60" r="40" fill="#00FF00" stroke="#FFFFFF" stroke-width="3" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <ellipse cx="340" cy="60" rx="70" ry="40" fill="#0000FF" stroke="#FFFFFF" stroke-width="3" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <line x1="440" y1="20" x2="560" y2="100" fill="#000000" stroke="#FFFF00" stroke-width="5" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M580 100L620 20L660 100L700 20" fill="none" stroke="#00FFFF" stroke-width="4" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M80 150L140 190L120 260L40 260L20 190Z" fill="#FF00FF" stroke="#FFFFFF" stroke-width="3" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M180 150L260 150L280 220L220 270L160 220L180 150Z" fill="#FF8800" stroke="#FFFFFF" stroke-width="4" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M320 150L325 146.007L330 142.361L335 139.062L340 136.111L345 133.507L350 131.25L355 129.34L360 127.778L365 126.562L370 125.694L375 125.174L380 125L385 125.174L390 125.694L395 126.562L400 127.778L405 129.34L410 131.25L415 133.507L420 136.111L425 139.062L430 142.361L435 146.007L440 150" fill="none" stroke="#FF0000" stroke-width="5" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M320 220L323.902 213.411L328.09 208.542L332.539 205.234L337.222 203.333L342.114 202.682L347.188 203.125L352.418 204.505L357.778 206.667L363.242 209.453L368.785 212.708L374.379 216.276L380 220L385.621 223.724L391.215 227.292L396.758 230.547L402.222 233.333L407.582 235.495L412.812 236.875L417.886 237.318L422.778 236.667L427.461 234.766L431.91 231.458L436.098 226.589L440 220" fill="none" stroke="#00FF00" stroke-width="5" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M480 220L482.044 209.647L488.038 200L497.574 191.716L510 185.359L524.471 181.363L540 180L555.529 181.363L570 185.359L582.426 191.716L591.962 200L597.956 209.647L600 220" fill="none" stroke="#0000FF" stroke-width="5" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <text x="40" y="330" font-size="32" fill="#FFFFFF" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)">SVG TEXT</text>
+  <text x="300" y="330" font-size="32" fill="#FFFF00" stroke="#FF0000" stroke-width="2" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)">STROKED</text>
+  <rect x="-50" y="-30" width="100" height="60" fill="#8844FF" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,670,350)"/>
+  <circle cx="0" cy="0" r="15" fill="#FFFFFF" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,670,350)"/>
+  <circle cx="100" cy="430" r="60" fill="#FF0000" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="0.5" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <circle cx="150" cy="430" r="60" fill="#0000FF" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="0.5" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <path d="M250 400L400 400L350 500L250 450L250 400Z" fill="none" stroke="#FFFFFF" stroke-width="10" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)"/>
+  <line x1="450" y1="420" x2="700" y2="420" fill="#000000" stroke="#FFFFFF" stroke-width="6" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)" stroke-dasharray="20 10" stroke-dashoffset="0"/>
+  <path d="M480 470L600 470L600 570L480 570L480 470M510 500L570 500L570 540L510 540L510 500Z" fill="#00AA88" stroke="#000000" stroke-width="1" opacity="1" fill-opacity="1" stroke-opacity="1" transform="matrix(1,0,0,1,20,20)" fill-rule="evenodd"/>
+</svg>
